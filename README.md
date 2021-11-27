@@ -30,7 +30,7 @@ npm install @vue/cli
 ### Compilamos el proyecto para poder acceder a el.
 
 ```
-vue serve
+npm run serve
 ```
 
 ### Herramientas Utilizadas
