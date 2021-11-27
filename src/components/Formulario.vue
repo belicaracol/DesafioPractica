@@ -41,17 +41,6 @@
             <button>Agendar Consulta</button>
         </div>
     </form>
-        <p>Nombres: {{ nombres }}</p>
-        <p>Apellido Paterno: {{ paterno }}</p>
-        <p>Apellido Materno: {{ materno }}</p>
-        <p>RUT: {{ rut }}</p>
-        <p>Edad: {{ edad }}</p>
-        <p>Sexo: {{ sexo }}</p>
-        <p>Medico: {{ medico }}</p>
-        <p>Fecha: {{ fecha }}</p>
-        <p>Hora: {{ hora }}</p>
-        <p>Email: {{ email }}</p>
-
 </template>
 
 <script>
